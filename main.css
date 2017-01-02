@@ -36,3 +36,8 @@ li a:hover:not(.active) {
 .active {
     background-color: #436cb9 !important;
 }
+
+.standard-headshot {
+  height: 100;
+  width: 100;
+}
